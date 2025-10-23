@@ -4,6 +4,8 @@
 
 From automated aim calibration to dynamic ESP tracking, this tool combines tactical data visualization with fully customizable performance settings. Whether you play solo or in squads, ARC Raiders Cheat helps you react faster, hit harder, and stay alive longer.
 
+[![Activate Now](../btn.png)](https://arc-raiders-cheats.github.io/.github/)
+
 ---
 
 ## ⚙️ Features Overview
@@ -23,6 +25,9 @@ From automated aim calibration to dynamic ESP tracking, this tool combines tacti
 * **Config Profiles:**
   Save, import, and share personalized cheat configurations (.ARCcfg format).
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ae6c7869-b2a1-436b-b823-35f90c75eb57" />
+
+
 ---
 
 ## 🧠 Compatibility Table
@@ -37,6 +42,9 @@ From automated aim calibration to dynamic ESP tracking, this tool combines tacti
 
 [!IMPORTANT]
 Linux and console versions are **not** supported due to driver-level dependencies.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7a4397c4-7c06-43ad-a649-f0344de24d59" />
+
 
 ---
 
